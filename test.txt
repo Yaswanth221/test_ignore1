@@ -1,4 +1,4 @@
 Hello Git
-hey it's changed in remote
+hey it's changed LOCALLY (conflict)
 hey it's changed in remote second time
 hey it's changed in remote third time
