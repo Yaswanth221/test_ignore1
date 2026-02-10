@@ -5,4 +5,5 @@ hey it's changed in remote third time
 remote: rebase test line
 local: rebase test line  
 MAIN: conflicting change line
+FEATURE2: line from feature branch
 MAIN2: conflicting line from main
