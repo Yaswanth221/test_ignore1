@@ -3,4 +3,5 @@ hey it's changed locally + Remotely-Secondtime (conflict)
 hey it's changed in remote second time
 hey it's changed in remote third time
 remote: rebase test line
-local: rebase test line
+local: rebase test line  
+MAIN: conflicting change line
